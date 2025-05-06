@@ -1,11 +1,7 @@
 title: "My Magazine Site"
-description: "A long-form story-style static page"
-url: "https://halefader.github.io"
-
-# Optional: Turn off posts
-collections:
-  posts:
-    output: false
+description: "A long-form, magazine-style GitHub Pages site"
+url: "https://yourusername.github.io"
+theme: minimal-mistakes-jekyll
 
 defaults:
   - scope:
