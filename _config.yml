@@ -1,7 +1,8 @@
 title: "My Magazine Site"
 description: "A long-form, magazine-style GitHub Pages site"
 url: "https://halefader.github.io"
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
+
 
 defaults:
   - scope:
