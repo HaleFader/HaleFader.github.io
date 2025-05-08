@@ -17,7 +17,7 @@ This is a long-form, magazine-style homepage built with Jekyll and GitHub Pages.
 
 This section grabs your attention right away with a bold opening.
 
-![Intro Image](/assets/images/intro.jpg)
+![Intro Image](/assets/images/header.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, nisi vel consectetur interdum, nisl nisi consequat nisi, euismod aliquam nunc nisi eu nisi.
 
@@ -37,5 +37,5 @@ Want to keep reading? You can keep scrolling or contact me below.
 
 ---
 
-> 📬 Contact me at [youremail@example.com](mailto:youremail@example.com)
+> 📬 Contact me at 
 
