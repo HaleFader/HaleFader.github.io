@@ -2,7 +2,7 @@ title: "My Magazine Site"
 description: "A long-form, magazine-style GitHub Pages site"
 url: "https://halefader.github.io"
 remote_theme: "mmistakes/minimal-mistakes"
-
+minimal_mistakes_skin: "default"
 
 defaults:
   - scope:
@@ -10,3 +10,8 @@ defaults:
       type: "pages"
     values:
       layout: "single"
+      classes: "wide"
+
+sass:
+  style: compressed
+
