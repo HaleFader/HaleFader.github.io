@@ -86,7 +86,7 @@ New York City is globally celebrated for its extraordinary culinary diversity. F
       </tr>
     </tbody>
     <caption style="caption-side: bottom; font-weight: bold; margin-bottom: 8px;">
-      Table 1. Average TripAdvisor ratings by borough
+      Table 1. Average TripAdvisor ratings by borough.
     </caption>
   </table>
 </div>
@@ -127,7 +127,7 @@ The health department inspects many different aspects, the most prevailing viola
   <div style="display: flex; justify-content: center; margin-top: 10px;">
     <table style="font-size: 0.85em; border-collapse: collapse; font-family: sans-serif;">
       <caption style="caption-side: bottom; font-weight: bold; margin-bottom: 8px;">
-        Table 2: Most frequent health code violations
+        Table 2: Most frequent health code violations.
       </caption>
       <thead>
         <tr>
@@ -156,7 +156,7 @@ Lastly in the plot 'Healt grade distribution' in figure 2 we observe the grades 
           style="width: 100%; max-width: 100%; height: 500px; border: none;">
   </iframe>
   <figcaption style="font-style: italic; text-align: center; margin-top: 10px; color: #555;">
-    Figure 2: MANGLER
+    Figure 2: Four different polar plots showing the restaurant counts, most occuring cuisines accross New York City, most occuring violation codes and the distributions of health grades A, B and C for the individual boroughs.
   </figcaption>
 </figure>
 
@@ -175,7 +175,7 @@ These visual patterns indicate that although violations are generally stable acr
           style="width: 100%; height: 520px; border: none;">
   </iframe>
   <figcaption style="font-style: italic; text-align: center; margin-top: 10px; color: #555;">
-    Figure 3: MANGLER
+    Figure 3: Polar plot of the health grade distribitions A, B and C distributed over the different boroughs. 
   </figcaption>
 </figure>
 
@@ -188,12 +188,12 @@ This intuitive visual format makes it easy to scan your surroundings and spot we
 Whether you're strolling through Manhattan, exploring the neighborhoods of Brooklyn, or venturing into the Bronx, Queens, or Staten Island, Figure 4 offers a practical, data-driven tool to support your culinary choices. So whether you're craving American food, looking for a cozy spot for coffee and tea, or feeling adventurous and curious to try Jamaican or Armenian cuisine, this map helps ensure a satisfying and informed dining experience during your visit to New York City.
 <br><br>
 
-<figure style="text-align: center;">
+<figure style="text-align: center; width: 100vw; margin-left: calc(-45vw + 50%);">
   <iframe src="/assets/plots/restaurant_map.html"
           style="width: 100%; max-width: 100%; height: 900px; border: none;" scrolling="no">
   </iframe>
   <figcaption style="font-style: italic; text-align: center; margin-top: 10px; color: #555;">
-    Figure 4: MANGLER
+    Figure 4: Interactive map where we all individual restuarants can be viewed with average healt grade and possible rating. One can select all or individual boroughs, all or individual grades and lastlty all or one specific cuisine. Combinations here of can freely be explored.
   </figcaption>
 </figure>
 
