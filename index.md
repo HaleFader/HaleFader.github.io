@@ -198,9 +198,9 @@ Whether you're strolling through Manhattan, exploring the neighborhoods of Brook
 </figure>
 
 <b>References</b>: <br> 
-[1]: <https://www.contexttravel.com/stories/articles/36-hours-in-nyc?display_currency=USD> <br>
-[2]: <https://oysterlink.com/spotlight/how-many-restaurants-does-nyc-have/?utm.com> <br> 
-[3]: <https://a816-health.nyc.gov/ABCEatsRestaurants/#!/faq>
+[1]: https://www.contexttravel.com/stories/articles/36-hours-in-nyc?display_currency=USD <br>
+[2]: https://oysterlink.com/spotlight/how-many-restaurants-does-nyc-have/?utm.com <br> 
+[3]: https://a816-health.nyc.gov/ABCEatsRestaurants/#!/faq
 
 
 </div>
