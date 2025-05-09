@@ -149,12 +149,12 @@ Manhattan clearly leads in restaurant count, boasting nearly 10,000 establishmen
 American cuisine dominates the city's culinary landscape, likely due to its versatility and ability to absorb multicultural influences. Figure 1 ‘Most occurring cuisine’. Chinese food and Coffee/Tea establishments rank closely behind, indicating a preference for quick, affordable dining options. Pizza, Mexican, Japanese, and Italian cuisines round out the top offerings, reflecting NYC's immigrant heritage and international appeal. Tourists looking for familiar or globally popular dishes will have no trouble satisfying their cravings in most boroughs. 
 The health department inspects many different aspects, the most prevailing violations are Code 10F, for instance, which denotes ‘food not protected from contamination’, appears most frequently. Others like ‘sanitation infractions ‘(08A) and ‘plumbing issues’ (06D) are also common, Figure 1 ‘Violation codes’. These highlight operational lapses that could affect food safety, even in otherwise well-rated restaurants. Being aware of these recurring issues can help diners make informed decisions, especially when selecting lower-profile eateries.
 Only in Manhattan and barely Brooklyn do we see a higher proportion of A grades than B and C grades. This could be due to greater resources, tighter management, or perhaps more pressure to maintain reputational standards in the tourism-heavy boroughs. Staten Island, Bronx and Queens show larger amounts of grade B incidents. Queens have the largest amount of C grades indicating a lower focus on sanitation.
-<figure style="text-align: center;">
-  <iframe src="/assets/plots/barplots.html"
-          style="width: 100%; max-width: 100%; height: 500px; border: none;">
+<figure style="text-align: center; width: 100vw; margin-left: calc(-50vw + 50%);">
+  <iframe src="/assets/plots/polarplots.html"
+          style="width: 100%; height: 500px; border: none;">
   </iframe>
   <figcaption style="font-style: italic; text-align: center; margin-top: 10px; color: #555;">
-    Figure 2: MANGLER
+    Figure 3: MANGLER
   </figcaption>
 </figure>
 
@@ -182,7 +182,7 @@ Whether you're strolling through Manhattan, exploring the neighborhoods of Brook
 
 <figure style="text-align: center;">
   <iframe src="/assets/plots/restaurant_map.html"
-          style="width: 100%; max-width: 100%; height: 500px; border: none;">
+          style="width: 100%; max-width: 100%; height: 360px; border: none;">
   </iframe>
   <figcaption style="font-style: italic; text-align: center; margin-top: 10px; color: #555;">
     Figure 4: MANGLER
