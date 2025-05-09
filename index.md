@@ -165,9 +165,9 @@ When viewing places to eat as a tourist visiting New York City, it is valuable t
 If we look at the better scoring restaurants with health grade A, there is a trend of higher rate of inspections with this grade in the spring months March, April and May. Meaning that if you wish to sort through restaurant knowing they recently got a good grade, the spring time is ideal for visiting the city. Whether the health grade reflects a higher sanitation focus within the restaurants, or the health department just is just more loose in the spring is up to you to interpret.
 On the other hand if you are looking out for the non-ideal health grade  ‘C’, one could argue that the winter half year is a better time to visit. In this period there seems to be less health gradings of ‘C’ across all boroughs, suggesting that the cooler weather and perhaps less tourism reduces stress and makes room for better sanitation. On the other hand, the higher rates of ‘C’ gradings and warmer weather during the summertime is an indicator that some restaurants that do good in the winter, might perform worse in the summertime. With this one could argue that visiting New York City in the summer is the safer time, as restaurants with varying sanitation more often get flagged during this time.
 These visual patterns indicate that although violations are generally stable across time and space, tourists may want to pay extra attention during peak travel months (summer and holidays) and consider checking inspection histories.
-<figure style="text-align: center; width: 100vw; margin-left: calc(-50vw + 50%);">
+<figure style="text-align: center; width: 100vw; margin-left: calc(-40vw + 50%);">
   <iframe src="/assets/plots/polarplots.html"
-          style="width: 100%; height: 550px; border: none;">
+          style="width: 100%; height: 520px; border: none;">
   </iframe>
   <figcaption style="font-style: italic; text-align: center; margin-top: 10px; color: #555;">
     Figure 3: MANGLER
@@ -182,7 +182,7 @@ Whether you're strolling through Manhattan, exploring the neighborhoods of Brook
 
 <figure style="text-align: center;">
   <iframe src="/assets/plots/restaurant_map.html"
-          style="width: 100%; max-width: 100%; height: 850px; border: none;" scrolling="no">
+          style="width: 100%; max-width: 100%; height: 900px; border: none;" scrolling="no">
   </iframe>
   <figcaption style="font-style: italic; text-align: center; margin-top: 10px; color: #555;">
     Figure 4: MANGLER
