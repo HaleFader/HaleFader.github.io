@@ -60,7 +60,7 @@ The Health Department scores the restaurants on an A, B, C scale where they repr
 <div style="float: right; width: 45%; margin-left: 20px; margin-bottom: 20px;">
   <table style="border-collapse: collapse; font-family: sans-serif;" id="violation-codes-table">
     <caption style="caption-side: bottom; font-weight: bold; margin-bottom: 8px;">
-      Table 2. Most frequent health code violations
+      Table 2: Most frequent health code violations
     </caption>
     <thead>
       <tr>
