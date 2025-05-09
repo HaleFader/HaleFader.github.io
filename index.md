@@ -5,24 +5,8 @@ header:
   overlay_image: /assets/images/NewYorkStreets.jpg
   caption: "Photo by CONTEXT"
   overlay_filter: 0.3
+classes: wide
 ---
-<style>
-/* Override theme's centered layout */
-.page {
-  max-width: 100% !important;
-  margin: 0 !important;
-  padding: 0 2rem !important;
-}
-
-/* Unwrap the inner content */
-.page__inner-wrap,
-.page__content {
-  max-width: 100% !important;
-  margin-left: 0 !important;
-  margin-right: auto !important;
-  text-align: left !important;
-}
-</style>
 
 New York City is globally celebrated for its extraordinary culinary diversity. From high-end dining experiences in Manhattan to vibrant street food scenes in Queens, the city offers options to suit every palate and budget. Yet for tourists unfamiliar with the city's health inspection system, deciding where to eat can be overwhelming. With up to 28,000 establishments [Kilde1]—the sheer volume of choices adds to the challenge. 
 <div style="float: right; width: auto; margin-left: 20px; margin-bottom: 20px;">
