@@ -7,14 +7,19 @@ header:
   overlay_filter: 0.3
 ---
 <style>
+/* Override theme's centered layout */
 .page {
   max-width: 100% !important;
-  padding-left: 5% !important;
-  padding-right: 5% !important;
+  margin: 0 !important;
+  padding: 0 2rem !important;
 }
 
+/* Unwrap the inner content */
+.page__inner-wrap,
 .page__content {
-  max-width: none !important;
+  max-width: 100% !important;
+  margin-left: 0 !important;
+  margin-right: auto !important;
   text-align: left !important;
 }
 </style>
