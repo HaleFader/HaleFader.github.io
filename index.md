@@ -186,7 +186,10 @@ Whether you're strolling through Manhattan, exploring the neighborhoods of Brook
     padding: 0 30px;
     box-sizing: border-box;
   }
-
+  h1, h2, h3, p, table {
+    margin-left: 20;
+    margin-right: 20;
+  }
   table {
     width: auto;
     max-width: 100%;
