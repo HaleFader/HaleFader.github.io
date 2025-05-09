@@ -10,38 +10,39 @@ header:
 New York City is globally celebrated for its extraordinary culinary diversity. From high-end dining experiences in Manhattan to vibrant street food scenes in Queens, the city offers options to suit every palate and budget. Yet for tourists unfamiliar with the city's health inspection system, deciding where to eat can be overwhelming. With up to 28,000 establishments [Kilde1]—the sheer volume of choices adds to the challenge. 
 Tourists often turn to online reviews to guide their decisions, relying on platforms like Yelp, TripAdvisor or Google Maps. Drawing from TripAdvisor, restaurants across all five boroughs generally receive favorable ratings, all averaging around 4 out of 5 as seen in FIGURE WHAT???. You would think that a restaurant's state of sanitation would be somehow reflected in this rating, right?
 
-<div style="float: right; width: 40%; margin-left: 20px; margin-bottom: 20px;">
-  <table border="1" style="width: 100%; border-collapse: collapse;">
+<div style="float: right; width: auto; margin-left: 20px; margin-bottom: 20px;">
+  <table style="border-collapse: collapse; font-family: sans-serif;">
     <thead>
       <tr>
-        <th>Borough</th>
-        <th>Mean rating</th>
+        <th style="border: 1px solid #999; padding: 8px; background-color: #f3f3f3;">Borough</th>
+        <th style="border: 1px solid #999; padding: 8px; background-color: #f3f3f3;">Mean rating</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Bronx</td>
-        <td>3.93</td>
+        <td style="border: 1px solid #999; padding: 8px;">Bronx</td>
+        <td style="border: 1px solid #999; padding: 8px;">3.93</td>
       </tr>
       <tr>
-        <td>Staten Island</td>
-        <td>3.96</td>
+        <td style="border: 1px solid #999; padding: 8px;">Staten Island</td>
+        <td style="border: 1px solid #999; padding: 8px;">3.96</td>
       </tr>
       <tr>
-        <td>Queens</td>
-        <td>4.15</td>
+        <td style="border: 1px solid #999; padding: 8px;">Queens</td>
+        <td style="border: 1px solid #999; padding: 8px;">4.15</td>
       </tr>
       <tr>
-        <td>Brooklyn</td>
-        <td>4.18</td>
+        <td style="border: 1px solid #999; padding: 8px;">Brooklyn</td>
+        <td style="border: 1px solid #999; padding: 8px;">4.18</td>
       </tr>
       <tr>
-        <td>Manhattan</td>
-        <td>4.29</td>
+        <td style="border: 1px solid #999; padding: 8px;">Manhattan</td>
+        <td style="border: 1px solid #999; padding: 8px;">4.29</td>
       </tr>
     </tbody>
   </table>
 </div>
+
 
 
 No.  In fact customer ratings  correlate very poorly with the sanitary state of the individual restaurants. 
