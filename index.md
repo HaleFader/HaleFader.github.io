@@ -8,8 +8,6 @@ header:
 ---
 
 New York City is globally celebrated for its extraordinary culinary diversity. From high-end dining experiences in Manhattan to vibrant street food scenes in Queens, the city offers options to suit every palate and budget. Yet for tourists unfamiliar with the city's health inspection system, deciding where to eat can be overwhelming. With up to 28,000 establishments [Kilde1]—the sheer volume of choices adds to the challenge. 
-Tourists often turn to online reviews to guide their decisions, relying on platforms like Yelp, TripAdvisor or Google Maps. Drawing from TripAdvisor, restaurants across all five boroughs generally receive favorable ratings, all averaging around 4 out of 5 as seen in FIGURE WHAT???. You would think that a restaurant's state of sanitation would be somehow reflected in this rating, right?
-
 <div style="float: right; width: auto; margin-left: 20px; margin-bottom: 20px;">
   <table style="border-collapse: collapse; font-family: sans-serif;">
     <thead>
@@ -45,8 +43,7 @@ Tourists often turn to online reviews to guide their decisions, relying on platf
     </caption>
   </table>
 </div>
-
-
+Tourists often turn to online reviews to guide their decisions, relying on platforms like Yelp, TripAdvisor or Google Maps. Drawing from TripAdvisor, restaurants across all five boroughs generally receive favorable ratings, all averaging around 4 out of 5 as seen in FIGURE WHAT???. You would think that a restaurant's state of sanitation would be somehow reflected in this rating, right?
 
 No.  In fact customer ratings  correlate very poorly with the sanitary state of the individual restaurants. 
 
