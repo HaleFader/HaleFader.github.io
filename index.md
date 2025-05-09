@@ -65,24 +65,24 @@ New York City is globally celebrated for its extraordinary culinary diversity. F
     </thead>
     <tbody>
       <tr>
-        <td style="border: 1px solid #999; padding: 8px;">Bronx</td>
-        <td style="border: 1px solid #999; padding: 8px;">3.93</td>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #999; padding: 8px;">Staten Island</td>
-        <td style="border: 1px solid #999; padding: 8px;">3.96</td>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #999; padding: 8px;">Queens</td>
-        <td style="border: 1px solid #999; padding: 8px;">4.15</td>
+        <td style="border: 1px solid #999; padding: 8px;">Manhattan</td>
+        <td style="border: 1px solid #999; padding: 8px;">4.29</td>
       </tr>
       <tr>
         <td style="border: 1px solid #999; padding: 8px;">Brooklyn</td>
         <td style="border: 1px solid #999; padding: 8px;">4.18</td>
       </tr>
       <tr>
-        <td style="border: 1px solid #999; padding: 8px;">Manhattan</td>
-        <td style="border: 1px solid #999; padding: 8px;">4.29</td>
+        <td style="border: 1px solid #999; padding: 8px;">Queens</td>
+        <td style="border: 1px solid #999; padding: 8px;">4.15</td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid #999; padding: 8px;">Bronx</td>
+        <td style="border: 1px solid #999; padding: 8px;">3.93</td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid #999; padding: 8px;">Staten Island</td>
+        <td style="border: 1px solid #999; padding: 8px;">3.96</td>
       </tr>
     </tbody>
     <caption style="caption-side: bottom; font-weight: bold; margin-bottom: 8px;">
