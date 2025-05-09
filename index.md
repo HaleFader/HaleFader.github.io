@@ -52,7 +52,7 @@ classes: wide
 
 </div>
 
-
+<div>
 <br>
 New York City is globally celebrated for its extraordinary culinary diversity. From high-end dining experiences in Manhattan to vibrant street food scenes in Queens, the city offers options to suit every palate and budget. Yet for tourists unfamiliar with the city's health inspection system, deciding where to eat can be overwhelming. With up to 28,000 establishments [Kilde1]—the sheer volume of choices adds to the challenge. 
 <div style="float: right; width: auto; margin-left: 20px; margin-bottom: 20px;">
@@ -151,7 +151,7 @@ The health department inspects many different aspects, the most prevailing viola
 Only in Manhattan and barely Brooklyn do we see a higher proportion of A grades than B and C grades. This could be due to greater resources, tighter management, or perhaps more pressure to maintain reputational standards in the tourism-heavy boroughs. Staten Island, Bronx and Queens show larger amounts of grade B incidents. Queens have the largest amount of C grades indicating a lower focus on sanitation.
 <figure style="text-align: center; width: 100vw; margin-left: calc(-50vw + 50%);">
   <iframe src="/assets/plots/polarplots.html"
-          style="width: 100%; height: 500px; border: none;">
+          style="width: 100%; height: 550px; border: none;">
   </iframe>
   <figcaption style="font-style: italic; text-align: center; margin-top: 10px; color: #555;">
     Figure 3: MANGLER
@@ -182,7 +182,7 @@ Whether you're strolling through Manhattan, exploring the neighborhoods of Brook
 
 <figure style="text-align: center;">
   <iframe src="/assets/plots/restaurant_map.html"
-          style="width: 100%; max-width: 100%; height: 360px; border: none;" scrolling="no">
+          style="width: 100%; max-width: 100%; height: 600px; border: none;" scrolling="no">
   </iframe>
   <figcaption style="font-style: italic; text-align: center; margin-top: 10px; color: #555;">
     Figure 4: MANGLER
