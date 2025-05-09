@@ -55,6 +55,31 @@ This article aims to serve as a guide for readers on where to eat, and one impor
 ## New york City’s health inspections
 
 The Health Department scores the restaurants on an A, B, C scale where they represent how many sanitary violation points given. The grade represents sanitary violations like incorrect temperature on storage or evidence of rodents. [Kilde 2]. Every restaurant is evaluated at least once a year and more if the restaurant receives a bad grade. In this article we work with restaurants evaluated in the two-year period 2022 to 2024. We combine this with review ratings of New York restaurants found on TripAdvisor. Each restaurant is rated on the scale from 1-5 with 5 being the best. In this article we have drawn data from 2004 to 2020.
+<div style="float: right; width: 45%; margin-left: 20px; margin-bottom: 20px;">
+  <table style="border-collapse: collapse; font-family: sans-serif;" id="violation-codes-table">
+    <caption style="caption-side: bottom; font-weight: bold; margin-bottom: 8px;">
+      Table 2. Most frequent health code violations
+    </caption>
+    <thead>
+      <tr>
+        <th style="border: 1px solid #999; padding: 8px; background-color: #f3f3f3;">Code</th>
+        <th style="border: 1px solid #999; padding: 8px; background-color: #f3f3f3;">Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td style="border: 1px solid #999; padding: 8px;">10F</td><td style="border: 1px solid #999; padding: 8px;">Non-food contact surface or equipment made of unacceptable material, not kept clean, or not properly sealed, raised, spaced or movable to allow accessibility for cleaning on all sides, above and underneath the unit.</td></tr>
+      <tr><td style="border: 1px solid #999; padding: 8px;">08A</td><td style="border: 1px solid #999; padding: 8px;">Establishment is not free of harborage or conditions conducive to rodents, insects or other pests.</td></tr>
+      <tr><td style="border: 1px solid #999; padding: 8px;">06D</td><td style="border: 1px solid #999; padding: 8px;">Food contact surface not properly washed, rinsed and sanitized after each use and following any activity when contamination may have occurred.</td></tr>
+      <tr><td style="border: 1px solid #999; padding: 8px;">02G</td><td style="border: 1px solid #999; padding: 8px;">Cold TCS food item held above 41 °F; smoked or processed fish held above 38 °F; intact raw eggs held above 45 °F; or reduced oxygen packaged (ROP) TCS foods held above required temperatures except during active necessary preparation.</td></tr>
+      <tr><td style="border: 1px solid #999; padding: 8px;">10B</td><td style="border: 1px solid #999; padding: 8px;">Anti-siphonage or back-flow prevention device not provided where required; equipment or floor not properly drained; sewage disposal system in disrepair or not functioning properly. Condensation or liquid waste improperly disposed of.</td></tr>
+      <tr><td style="border: 1px solid #999; padding: 8px;">04L</td><td style="border: 1px solid #999; padding: 8px;">Evidence of mice or live mice in establishment's food or non-food areas.</td></tr>
+      <tr><td style="border: 1px solid #999; padding: 8px;">06C</td><td style="border: 1px solid #999; padding: 8px;">Food, supplies, and equipment not protected from potential source of contamination during storage, preparation, transportation, display or service.</td></tr>
+      <tr><td style="border: 1px solid #999; padding: 8px;">02B</td><td style="border: 1px solid #999; padding: 8px;">Hot food item not held at or above 140° F.</td></tr>
+      <tr><td style="border: 1px solid #999; padding: 8px;">04N</td><td style="border: 1px solid #999; padding: 8px;">Filth flies or food/refuse/sewage associated with (FRSA) flies or other nuisance pests in establishment’s food and/or non-food areas. FRSA flies include house flies, blow flies, bottle flies, flesh flies, drain flies, Phorid flies and fruit flies.</td></tr>
+      <tr><td style="border: 1px solid #999; padding: 8px;">04A</td><td style="border: 1px solid #999; padding: 8px;">Food Protection Certificate not held by supervisor of food operations.</td></tr>
+    </tbody>
+  </table>
+</div>
 
 Although these two datasets do not overlap in time, we consider the average rating over a span of 16 years to be a solid indicator of the restaurant’s general reputation and quality. Due to the limited availability of up-to-date and comprehensive review dataset, we have chosen to rely on this long-term average as a proxy for current customer sentiment and chosen to show up-to-date health inspection grades. It is important for readers to keep in mind that this approach is based on the best available data and should be interpreted with some consideration for the time gap between the datasets.
 As illustrated in FIGURE WHAT, there is little to no correlation between public ratings and official health grades. This disconnect likely stems from the differing criteria used by diners and inspectors. While health department evaluations focus solely on hygiene and safety—often invisible to the average customer—public reviews typically emphasize the more immediate, subjective aspects of the dining experience: food quality, flavor, service, ambiance, and value. A restaurant could offer a delicious meal in a cozy setting with attentive staff and still receive a low health grade due to back-of-house violations that most customers will never see. Conversely, a spotlessly clean establishment with bland food or poor service might earn an 'A' grade but still receive mediocre reviews.
