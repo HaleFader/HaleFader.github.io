@@ -182,7 +182,7 @@ Whether you're strolling through Manhattan, exploring the neighborhoods of Brook
 
 <figure style="text-align: center;">
   <iframe src="/assets/plots/restaurant_map.html"
-          style="width: 100%; max-width: 100%; height: 600px; border: none;" scrolling="no">
+          style="width: 100%; max-width: 100%; height: 850px; border: none;" scrolling="no">
   </iframe>
   <figcaption style="font-style: italic; text-align: center; margin-top: 10px; color: #555;">
     Figure 4: MANGLER
