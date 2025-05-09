@@ -129,7 +129,7 @@ This intuitive visual format makes it easy to scan your surroundings and spot we
 Whether you're strolling through Manhattan, exploring the neighborhoods of Brooklyn, or venturing into the Bronx, Queens, or Staten Island, Figure 3 offers a practical, data-driven tool to support your culinary choices. So whether you're craving American food, looking for a cozy spot for coffee and tea, or feeling adventurous and curious to try Jamaican or Armenian cuisine, this map helps ensure a satisfying and informed dining experience during your visit to New York City.
 
 <figure>
- <iframe src="/assets/plots/restaurants_map.html" width="120%" height="500px"></iframe>
+ <iframe src="/assets/plots/restaurant_map.html" width="120%" height="500px"></iframe>
  <figcaption style="font-style: italic; text-align: center; margin-top: 10px; color: #555;">
   Figure 4: MANGLER
   </figcaption>
