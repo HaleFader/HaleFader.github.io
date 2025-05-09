@@ -188,7 +188,7 @@ This intuitive visual format makes it easy to scan your surroundings and spot we
 Whether you're strolling through Manhattan, exploring the neighborhoods of Brooklyn, or venturing into the Bronx, Queens, or Staten Island, Figure 4 offers a practical, data-driven tool to support your culinary choices. So whether you're craving American food, looking for a cozy spot for coffee and tea, or feeling adventurous and curious to try Jamaican or Armenian cuisine, this map helps ensure a satisfying and informed dining experience during your visit to New York City.
 <br><br>
 
-<figure style="text-align: center; width: 100vw; margin-left: calc(-45vw + 50%);">
+<figure style="text-align: center; width: 100vw; margin-left: calc(-30w + 50%);">
   <iframe src="/assets/plots/restaurant_map.html"
           style="width: 100%; max-width: 100%; height: 900px; border: none;" scrolling="no">
   </iframe>
