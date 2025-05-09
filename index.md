@@ -131,10 +131,10 @@ Although these two datasets do not overlap in time, we consider the average rati
 As illustrated in FIGURE WHAT, there is little to no correlation between public ratings and official health grades. This disconnect likely stems from the differing criteria used by diners and inspectors. While health department evaluations focus solely on hygiene and safety—often invisible to the average customer—public reviews typically emphasize the more immediate, subjective aspects of the dining experience: food quality, flavor, service, ambiance, and value. A restaurant could offer a delicious meal in a cozy setting with attentive staff and still receive a low health grade due to back-of-house violations that most customers will never see. Conversely, a spotlessly clean establishment with bland food or poor service might earn an 'A' grade but still receive mediocre reviews.
 This contrast highlights the limitations of relying solely on either system. For tourists especially, understanding that a high customer rating doesn’t necessarily indicate cleanliness—and that a low health grade doesn’t always mean a bad meal—can help make more informed dining choices.
 
-<figure>
- <iframe src="/assets/images/review_grade.png" width="100%" height="300px"></iframe>
- <figcaption style="font-style: italic; text-align: center; margin-top: 10px; color: #555;">
-  Figure 1: billedtekst
+<figure style="text-align: center;">
+  <img src="/assets/images/review_grade.png" style="max-width: 100%; height: auto;" alt="Review Grade Figure">
+  <figcaption style="font-style: italic; text-align: center; margin-top: 10px; color: #555;">
+    Figure 1: billedtekst
   </figcaption>
 </figure>
 
