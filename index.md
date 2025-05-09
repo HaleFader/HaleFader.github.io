@@ -193,7 +193,7 @@ Whether you're strolling through Manhattan, exploring the neighborhoods of Brook
           style="width: 100%; max-width: 100%; height: 900px; border: none;" scrolling="no">
   </iframe>
   <figcaption style="font-style: italic; text-align: center; margin-top: 10px; color: #555;">
-    Figure 4: Interactive map where we all individual restuarants can be viewed with average healt grade and possible rating. One can select all or individual boroughs, all or individual grades and lastlty all or one specific cuisine. Combinations here of can freely be explored.
+    Figure 4: Interactive map where we all individual restuarants can be viewed with average healt grade and possible rating. <br>One can select all or individual boroughs, all or individual grades and lastlty all or one specific cuisine. <br> Combinations here of can freely be explored.
   </figcaption>
 </figure>
 
