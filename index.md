@@ -149,12 +149,15 @@ Manhattan clearly leads in restaurant count, boasting nearly 10,000 establishmen
 American cuisine dominates the city's culinary landscape, likely due to its versatility and ability to absorb multicultural influences. Figure 1 ‘Most occurring cuisine’. Chinese food and Coffee/Tea establishments rank closely behind, indicating a preference for quick, affordable dining options. Pizza, Mexican, Japanese, and Italian cuisines round out the top offerings, reflecting NYC's immigrant heritage and international appeal. Tourists looking for familiar or globally popular dishes will have no trouble satisfying their cravings in most boroughs. 
 The health department inspects many different aspects, the most prevailing violations are Code 10F, for instance, which denotes ‘food not protected from contamination’, appears most frequently. Others like ‘sanitation infractions ‘(08A) and ‘plumbing issues’ (06D) are also common, Figure 1 ‘Violation codes’. These highlight operational lapses that could affect food safety, even in otherwise well-rated restaurants. Being aware of these recurring issues can help diners make informed decisions, especially when selecting lower-profile eateries.
 Only in Manhattan and barely Brooklyn do we see a higher proportion of A grades than B and C grades. This could be due to greater resources, tighter management, or perhaps more pressure to maintain reputational standards in the tourism-heavy boroughs. Staten Island, Bronx and Queens show larger amounts of grade B incidents. Queens have the largest amount of C grades indicating a lower focus on sanitation.
-<figure>
- <iframe src="/assets/plots/barplots.html" width="120%" height="500px"></iframe>
- <figcaption style="font-style: italic; text-align: center; margin-top: 10px; color: #555;">
-  Figure 2: MANGLER
+<figure style="text-align: center;">
+  <iframe src="/assets/plots/barplots.html"
+          style="width: 100%; max-width: 100%; height: 500px; border: none;">
+  </iframe>
+  <figcaption style="font-style: italic; text-align: center; margin-top: 10px; color: #555;">
+    Figure 2: MANGLER
   </figcaption>
 </figure>
+
 
 
 <h2>  When should you visit New York City?</h2> 
@@ -162,10 +165,12 @@ When viewing places to eat as a tourist visiting New York City, it is valuable t
 If we look at the better scoring restaurants with health grade A, there is a trend of higher rate of inspections with this grade in the spring months March, April and May. Meaning that if you wish to sort through restaurant knowing they recently got a good grade, the spring time is ideal for visiting the city. Whether the health grade reflects a higher sanitation focus within the restaurants, or the health department just is just more loose in the spring is up to you to interpret.
 On the other hand if you are looking out for the non-ideal health grade  ‘C’, one could argue that the winter half year is a better time to visit. In this period there seems to be less health gradings of ‘C’ across all boroughs, suggesting that the cooler weather and perhaps less tourism reduces stress and makes room for better sanitation. On the other hand, the higher rates of ‘C’ gradings and warmer weather during the summertime is an indicator that some restaurants that do good in the winter, might perform worse in the summertime. With this one could argue that visiting New York City in the summer is the safer time, as restaurants with varying sanitation more often get flagged during this time.
 These visual patterns indicate that although violations are generally stable across time and space, tourists may want to pay extra attention during peak travel months (summer and holidays) and consider checking inspection histories.
-<figure>
- <iframe src="/assets/plots/polarplots.html" width="120%" height="500px"></iframe>
- <figcaption style="font-style: italic; text-align: center; margin-top: 10px; color: #555;">
-  Figure 3: MANGLER
+<figure style="text-align: center;">
+  <iframe src="/assets/plots/polarplots.html"
+          style="width: 100%; max-width: 100%; height: 500px; border: none;">
+  </iframe>
+  <figcaption style="font-style: italic; text-align: center; margin-top: 10px; color: #555;">
+    Figure 3: MANGLER
   </figcaption>
 </figure>
 
@@ -175,10 +180,12 @@ If you're a tourist reading this article and wondering where to eat in New York 
 This intuitive visual format makes it easy to scan your surroundings and spot well-reviewed and hygienically sound eateries at a glance. By dragging your cursor over a dot, you can view detailed information including the restaurant's name, the type of cuisine it serves, its borough location, its health score and corresponding grade, and, if available, its review rating. The review rating is based on our compiled review dataset. In cases where the restaurant is part of a chain, and individual location data is unavailable, the rating shown represents an average of all locations of that chain within Manhattan.
 Whether you're strolling through Manhattan, exploring the neighborhoods of Brooklyn, or venturing into the Bronx, Queens, or Staten Island, Figure 3 offers a practical, data-driven tool to support your culinary choices. So whether you're craving American food, looking for a cozy spot for coffee and tea, or feeling adventurous and curious to try Jamaican or Armenian cuisine, this map helps ensure a satisfying and informed dining experience during your visit to New York City.
 
-<figure>
- <iframe src="/assets/plots/restaurant_map.html" width="120%" height="500px"></iframe>
- <figcaption style="font-style: italic; text-align: center; margin-top: 10px; color: #555;">
-  Figure 4: MANGLER
+<figure style="text-align: center;">
+  <iframe src="/assets/plots/restaurant_map.html"
+          style="width: 100%; max-width: 100%; height: 500px; border: none;">
+  </iframe>
+  <figcaption style="font-style: italic; text-align: center; margin-top: 10px; color: #555;">
+    Figure 4: MANGLER
   </figcaption>
 </figure>
 
