@@ -54,7 +54,7 @@ This article aims to serve as a guide for readers on where to eat, and one impor
 
 ---
 
-## New york City’s health inspections
+<h2>New York City’s health inspections</h2> 
 
 The Health Department scores the restaurants on an A, B, C scale where they represent how many sanitary violation points given. The grade represents sanitary violations like incorrect temperature on storage or evidence of rodents. [Kilde 2]. Every restaurant is evaluated at least once a year and more if the restaurant receives a bad grade. In this article we work with restaurants evaluated in the two-year period 2022 to 2024. We combine this with review ratings of New York restaurants found on TripAdvisor. Each restaurant is rated on the scale from 1-5 with 5 being the best. In this article we have drawn data from 2004 to 2020.
 <div style="float: right; width: 45%; margin-left: 20px; margin-bottom: 20px;">
@@ -96,7 +96,7 @@ This contrast highlights the limitations of relying solely on either system. For
 
 ---
 
-## Restaurants information overview
+<h2> Restaurants information overview </h2> 
 Manhattan clearly leads in restaurant count, boasting nearly 10,000 establishments. FIGURE (1) WHAT plots ‘Restaurant counts’. This aligns with its role as a cultural and economic hub, drawing millions of tourists annually. Brooklyn and Queens offer slightly fewer restaurants but still maintain impressive numbers, representing the boroughs' rising culinary relevance. The Bronx and Staten Island have the fewest eateries, which may affect convenience for travelers staying in or venturing to those areas. For tourists aiming for the widest range of choices within walking distance, Manhattan remains the top pick.
 American cuisine dominates the city's culinary landscape, likely due to its versatility and ability to absorb multicultural influences. Figure 1 ‘Most occurring cuisine’. Chinese food and Coffee/Tea establishments rank closely behind, indicating a preference for quick, affordable dining options. Pizza, Mexican, Japanese, and Italian cuisines round out the top offerings, reflecting NYC's immigrant heritage and international appeal. Tourists looking for familiar or globally popular dishes will have no trouble satisfying their cravings in most boroughs. 
 The health department inspects many different aspects, the most prevailing violations are Code 10F, for instance, which denotes ‘food not protected from contamination’, appears most frequently. Others like ‘sanitation infractions ‘(08A) and ‘plumbing issues’ (06D) are also common, Figure 1 ‘Violation codes’. These highlight operational lapses that could affect food safety, even in otherwise well-rated restaurants. Being aware of these recurring issues can help diners make informed decisions, especially when selecting lower-profile eateries.
@@ -110,7 +110,7 @@ Only in Manhattan and barely Brooklyn do we see a higher proportion of A grades 
 
 ---
 
-## When should you visit New York City?
+<h2>  When should you visit New York City?</h2> 
 When viewing places to eat as a tourist visiting New York City, it is valuable to look at the distributions of health grades throughout the months of the year. In the polar plots above the normalized distributions of health grades ‘A’ and ‘C’ are presented for each borough. Whether you want to look into the neighbourhood you’re staying in, or just get an overall feeling of the trends of the year, the clickable boxes on the right allow you to explore. Our data on Staten Island is unfortunately very limited, leaving us with a bit funky looking distributions due to very limited observations.
 If we look at the better scoring restaurants with health grade A, there is a trend of higher rate of inspections with this grade in the spring months March, April and May. Meaning that if you wish to sort through restaurant knowing they recently got a good grade, the spring time is ideal for visiting the city. Whether the health grade reflects a higher sanitation focus within the restaurants, or the health department just is just more loose in the spring is up to you to interpret.
 On the other hand if you are looking out for the non-ideal health grade  ‘C’, one could argue that the winter half year is a better time to visit. In this period there seems to be less health gradings of ‘C’ across all boroughs, suggesting that the cooler weather and perhaps less tourism reduces stress and makes room for better sanitation. On the other hand, the higher rates of ‘C’ gradings and warmer weather during the summertime is an indicator that some restaurants that do good in the winter, might perform worse in the summertime. With this one could argue that visiting New York City in the summer is the safer time, as restaurants with varying sanitation more often get flagged during this time.
@@ -123,7 +123,7 @@ These visual patterns indicate that although violations are generally stable acr
 </figure>
 
 
-## So where should I eat?
+<h2> So where should I eat?</h2> 
 If you're a tourist reading this article and wondering where to eat in New York City, Figure 3 can serve as a valuable guide to help you make an informed decision. The map provides a visual overview of restaurant scores across all five boroughs, allowing you to quickly identify high-scoring options based on your current location. Each dot on the map represents a single restaurant, with its score reflected through a color gradient—darker shades of green indicate lower violation scores corresponding to A grades, while more reddish tones suggest higher scores associated with C grades.
 This intuitive visual format makes it easy to scan your surroundings and spot well-reviewed and hygienically sound eateries at a glance. By dragging your cursor over a dot, you can view detailed information including the restaurant's name, the type of cuisine it serves, its borough location, its health score and corresponding grade, and, if available, its review rating. The review rating is based on our compiled review dataset. In cases where the restaurant is part of a chain, and individual location data is unavailable, the rating shown represents an average of all locations of that chain within Manhattan.
 Whether you're strolling through Manhattan, exploring the neighborhoods of Brooklyn, or venturing into the Bronx, Queens, or Staten Island, Figure 3 offers a practical, data-driven tool to support your culinary choices. So whether you're craving American food, looking for a cozy spot for coffee and tea, or feeling adventurous and curious to try Jamaican or Armenian cuisine, this map helps ensure a satisfying and informed dining experience during your visit to New York City.
