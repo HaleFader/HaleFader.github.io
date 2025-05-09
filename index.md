@@ -110,7 +110,7 @@ This contrast highlights the limitations of relying solely on either system. For
 <figure style="text-align: center;">
   <img src="/assets/images/review_grade.png" style="max-width: 100%; height: auto;" alt="Review Grade Figure">
   <figcaption style="font-style: italic; text-align: center; margin-top: 10px; color: #555;">
-    Figure 1: billedtekst
+    Figure 1: Scatterplot showing the correlation between restaurant cleanliness and their average costumer rating. It is eyecatching how the health grade seems to be independent of how good or bad the reviews of a restaurant is.
   </figcaption>
 </figure>
 
@@ -196,6 +196,7 @@ Whether you're strolling through Manhattan, exploring the neighborhoods of Brook
     Figure 4: Interactive map where we all individual restuarants can be viewed with average healt grade and possible rating. <br>One can select all or individual boroughs, all or individual grades and lastlty all or one specific cuisine. <br> Combinations here of can freely be explored.
   </figcaption>
 </figure>
+<br> <br>
 
 <b>References</b>: <br> 
 [1]: https://www.contexttravel.com/stories/articles/36-hours-in-nyc?display_currency=USD <br>
