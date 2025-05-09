@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title: "Navigation of the New York City jungle of restaurants"
 header:
   overlay_image: /assets/images/NewYorkStreets.jpg
@@ -8,7 +8,7 @@ header:
 classes: wide
 ---
 
-
+<div class="content-wrapper">
 New York City is globally celebrated for its extraordinary culinary diversity. From high-end dining experiences in Manhattan to vibrant street food scenes in Queens, the city offers options to suit every palate and budget. Yet for tourists unfamiliar with the city's health inspection system, deciding where to eat can be overwhelming. With up to 28,000 establishments [Kilde1]—the sheer volume of choices adds to the challenge. 
 <div style="float: right; width: auto; margin-left: 20px; margin-bottom: 20px;">
   <table style="border-collapse: collapse; font-family: sans-serif;">
@@ -136,5 +136,23 @@ Whether you're strolling through Manhattan, exploring the neighborhoods of Brook
 </figure>
 
 ---
+</div>
+<style>
+  .content-wrapper {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 30px;
+    box-sizing: border-box;
+  }
 
+  h1, h2, h3, p, table {
+    margin-left: auto;
+    margin-right: auto;
+  }
 
+  table {
+    width: auto;
+    max-width: 100%;
+    margin-top: 1em;
+  }
+</style>
