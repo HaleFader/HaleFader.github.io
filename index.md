@@ -186,6 +186,7 @@ If you're a tourist reading this article and wondering where to eat in New York 
 This intuitive visual format makes it easy to scan your surroundings and spot well-reviewed and hygienically sound eateries at a glance. By dragging your cursor over a dot, you can view detailed information including the restaurant's name, the type of cuisine it serves, its borough location, its health score and corresponding grade, and, if available, its review rating. The review rating is based on our compiled review dataset. In cases where the restaurant is part of a chain, and individual location data is unavailable, the rating shown represents an average of all locations of that chain within Manhattan.
 <br><br>
 Whether you're strolling through Manhattan, exploring the neighborhoods of Brooklyn, or venturing into the Bronx, Queens, or Staten Island, Figure 4 offers a practical, data-driven tool to support your culinary choices. So whether you're craving American food, looking for a cozy spot for coffee and tea, or feeling adventurous and curious to try Jamaican or Armenian cuisine, this map helps ensure a satisfying and informed dining experience during your visit to New York City.
+<br><br>
 
 <figure style="text-align: center;">
   <iframe src="/assets/plots/restaurant_map.html"
