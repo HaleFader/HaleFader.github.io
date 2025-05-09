@@ -1,6 +1,10 @@
+// Center main content on pages and posts
+.page__content,
+.page__hero,
+.archive,
 .page {
-    max-width: 800px;  // Or any width you prefer
-    margin: 0 auto;    // This centers the content horizontally
-    padding-left: 2rem;
-    padding-right: 2rem;
-  }
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 700px; // or whatever width you want
+  text-align: left; // or center if you want *all* text centered
+}
