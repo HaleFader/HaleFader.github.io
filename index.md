@@ -3,13 +3,30 @@ layout: page
 classes: wide
 ---
 
-<div style="width: 100vw; margin-left: calc(-50vw + 50%);">
+<div style="position: relative; width: 100vw; margin-left: calc(-50vw + 50%);">
   <img src="/assets/images/NewYorkStreets.jpg" style="width: 100%; height: auto;" alt="NYC street">
-  <figcaption style="text-align: right; font-style: italic; font-size: 0.9em; padding-right: 20px;">
+  
+  <h1 style="
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 3em;
+    text-align: center;
+    text-shadow: 2px 2px 8px rgba(0,0,0,0.6);
+    margin: 0;
+    padding: 0 20px;
+    width: 100%;
+    box-sizing: border-box;
+  ">
+    Navigation of the New York City jungle of restaurants
+  </h1>
+
+  <figcaption style="position: absolute; bottom: 10px; right: 20px; font-style: italic; font-size: 0.9em; color: white; text-shadow: 1px 1px 4px rgba(0,0,0,0.6);">
     Photo by CONTEXT
   </figcaption>
 </div>
-
 <div class="content-wrapper">
 <figcaption style="text-align: right; font-style: italic; font-size: 0.9em;">Photo by CONTEXT</figcaption>
 New York City is globally celebrated for its extraordinary culinary diversity. From high-end dining experiences in Manhattan to vibrant street food scenes in Queens, the city offers options to suit every palate and budget. Yet for tourists unfamiliar with the city's health inspection system, deciding where to eat can be overwhelming. With up to 28,000 establishments [Kilde1]—the sheer volume of choices adds to the challenge. 
