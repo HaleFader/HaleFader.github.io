@@ -3,8 +3,14 @@ layout: page
 classes: wide
 ---
 
+<div style="width: 100vw; margin-left: calc(-50vw + 50%);">
+  <img src="/assets/images/NewYorkStreets.jpg" style="width: 100%; height: auto;" alt="NYC street">
+  <figcaption style="text-align: right; font-style: italic; font-size: 0.9em; padding-right: 20px;">
+    Photo by CONTEXT
+  </figcaption>
+</div>
+
 <div class="content-wrapper">
-<img src="/assets/images/NewYorkStreets.jpg" style="width: 100%; height: auto;" alt="NYC street">
 <figcaption style="text-align: right; font-style: italic; font-size: 0.9em;">Photo by CONTEXT</figcaption>
 New York City is globally celebrated for its extraordinary culinary diversity. From high-end dining experiences in Manhattan to vibrant street food scenes in Queens, the city offers options to suit every palate and budget. Yet for tourists unfamiliar with the city's health inspection system, deciding where to eat can be overwhelming. With up to 28,000 establishments [Kilde1]—the sheer volume of choices adds to the challenge. 
 <div style="float: right; width: auto; margin-left: 20px; margin-bottom: 20px;">
@@ -49,7 +55,6 @@ No.  In fact customer ratings  correlate very poorly with the sanitary state of 
 This article aims to serve as a guide for readers on where to eat, and one important aspect that is often overlooked in such guides is the health condition of the restaurant. Here, we seek to integrate the Health Department’s grading system with the more widely used customer review ratings in order to provide a more nuanced basis for making dining decisions.
 
 
----
 
 <h2>New York City’s health inspections</h2> 
 
@@ -85,13 +90,12 @@ As illustrated in FIGURE WHAT, there is little to no correlation between public 
 This contrast highlights the limitations of relying solely on either system. For tourists especially, understanding that a high customer rating doesn’t necessarily indicate cleanliness—and that a low health grade doesn’t always mean a bad meal—can help make more informed dining choices.
 
 <figure>
- <iframe src="/assets/images/review_grade.png" width="120%" height="500px"></iframe>
+ <iframe src="/assets/images/review_grade.png" width="100%" height="300px"></iframe>
  <figcaption style="font-style: italic; text-align: center; margin-top: 10px; color: #555;">
   Figure 1: billedtekst
   </figcaption>
 </figure>
 
----
 
 <h2> Restaurants information overview </h2> 
 Manhattan clearly leads in restaurant count, boasting nearly 10,000 establishments. FIGURE (1) WHAT plots ‘Restaurant counts’. This aligns with its role as a cultural and economic hub, drawing millions of tourists annually. Brooklyn and Queens offer slightly fewer restaurants but still maintain impressive numbers, representing the boroughs' rising culinary relevance. The Bronx and Staten Island have the fewest eateries, which may affect convenience for travelers staying in or venturing to those areas. For tourists aiming for the widest range of choices within walking distance, Manhattan remains the top pick.
@@ -105,7 +109,6 @@ Only in Manhattan and barely Brooklyn do we see a higher proportion of A grades 
   </figcaption>
 </figure>
 
----
 
 <h2>  When should you visit New York City?</h2> 
 When viewing places to eat as a tourist visiting New York City, it is valuable to look at the distributions of health grades throughout the months of the year. In the polar plots above the normalized distributions of health grades ‘A’ and ‘C’ are presented for each borough. Whether you want to look into the neighbourhood you’re staying in, or just get an overall feeling of the trends of the year, the clickable boxes on the right allow you to explore. Our data on Staten Island is unfortunately very limited, leaving us with a bit funky looking distributions due to very limited observations.
@@ -132,7 +135,6 @@ Whether you're strolling through Manhattan, exploring the neighborhoods of Brook
   </figcaption>
 </figure>
 
----
 </div>
 
 <style>
