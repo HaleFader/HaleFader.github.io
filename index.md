@@ -3,9 +3,22 @@ layout: page
 classes: wide
 ---
 
-<div style="position: relative; width: 100vw; margin-left: calc(-50vw + 50%);">
-  <img src="/assets/images/NewYorkStreets.jpg" style="width: 100%; height: auto;" alt="NYC street">
-  
+<div style="position: relative; width: 100vw; margin-left: calc(-50vw + 50%); overflow: hidden;">
+
+  <!-- Image -->
+  <img src="/assets/images/NewYorkStreets.jpg" style="width: 100%; height: auto; display: block;" alt="NYC street">
+
+  <!-- Dark overlay -->
+  <div style="
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.45); /* Adjust darkness here */
+  "></div>
+
+  <!-- Title text -->
   <h1 style="
     position: absolute;
     top: 50%;
@@ -13,8 +26,9 @@ classes: wide
     transform: translate(-50%, -50%);
     color: white;
     font-size: 3em;
+    font-weight: bold;
     text-align: center;
-    text-shadow: 2px 2px 8px rgba(0,0,0,0.6);
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
     margin: 0;
     padding: 0 20px;
     width: 100%;
@@ -23,12 +37,23 @@ classes: wide
     Navigation of the New York City jungle of restaurants
   </h1>
 
-  <figcaption style="position: absolute; bottom: 10px; right: 20px; font-style: italic; font-size: 0.9em; color: white; text-shadow: 1px 1px 4px rgba(0,0,0,0.6);">
+  <!-- Caption -->
+  <figcaption style="
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+    font-style: italic;
+    font-size: 0.9em;
+    color: white;
+    text-shadow: 1px 1px 4px rgba(0,0,0,0.6);
+  ">
     Photo by CONTEXT
   </figcaption>
+
 </div>
-<div class="content-wrapper">
-<figcaption style="text-align: right; font-style: italic; font-size: 0.9em;">Photo by CONTEXT</figcaption>
+
+
+
 New York City is globally celebrated for its extraordinary culinary diversity. From high-end dining experiences in Manhattan to vibrant street food scenes in Queens, the city offers options to suit every palate and budget. Yet for tourists unfamiliar with the city's health inspection system, deciding where to eat can be overwhelming. With up to 28,000 establishments [Kilde1]—the sheer volume of choices adds to the challenge. 
 <div style="float: right; width: auto; margin-left: 20px; margin-bottom: 20px;">
   <table style="border-collapse: collapse; font-family: sans-serif;">
@@ -156,7 +181,7 @@ Whether you're strolling through Manhattan, exploring the neighborhoods of Brook
 
 <style>
   .content-wrapper {
-    max-width: 1100px; /* ← This was changed from 900px */
+    max-width: 1300px;
     margin: 0 auto;
     padding: 0 30px;
     box-sizing: border-box;
