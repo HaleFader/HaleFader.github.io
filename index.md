@@ -40,7 +40,7 @@ Tourists often turn to online reviews to guide their decisions, relying on platf
         <td style="border: 1px solid #999; padding: 8px;">4.29</td>
       </tr>
     </tbody>
-    <caption style="caption-side: top; font-weight: bold; margin-bottom: 8px;">
+    <caption style="caption-side: bottom; font-weight: bold; margin-bottom: 8px;">
       Table 1. Average TripAdvisor ratings by borough
     </caption>
   </table>
