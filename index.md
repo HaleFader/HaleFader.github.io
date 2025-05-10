@@ -110,7 +110,7 @@ This article aims to serve as a guide for readers on where to eat, and one impor
 <h2>Health grades vs. user review ratings</h2>
 
 
-The Health Department scores the restaurants on an A, B, C scale that represents how many sanitary violation points are given. The grade represents sanitary violations like incorrect temperature on storage or evidence of rodents [3]. Every restaurant is evaluated at least once a year and more if the restaurant receives a bad grade. In this article we work with restaurants evaluated in the two-year period 2022 to 2024. We combine this with review ratings of New York restaurants found on TripAdvisor from 2004 to 2020. Each restaurant is rated on the scale from 1-5 with 5 being the best.
+The Health Department scores the restaurants on an A, B, C scale that represents how many sanitary violation points are given. The grade represents sanitary violations like incorrect temperature on storage or evidence of rodents [3]. Every restaurant is evaluated at least once a year and more if the restaurant receives a bad grade. In this article we work with restaurants evaluated in the two-year period 2022 to 2024 [4]. We combine this with review ratings of New York restaurants found on TripAdvisor from 2004 to 2020. Each restaurant is rated on the scale from 1-5 with 5 being the best [5].
 <br><br>
 Although the years of the review ratings and health inspections do not overlap, we consider the average rating over a span of 16 years to be a solid indicator of the restaurant’s general reputation and quality. Due to the limited availability of current and comprehensive review datasets, we have chosen to rely on this long-term average as a proxy for present customer sentiment and chosen to show up-to-date health inspection grades. It is important for readers to keep in mind that this approach is based on the best available data and should be interpreted with some consideration for the time gap between the datasets. 
 <br><br>
@@ -135,7 +135,7 @@ The contrast between health grades and reviews highlights the limitations of rel
 <h2> Restaurant information overview </h2>
 
 
-For visitors trying to make the most of New York City’s food scene, it helps to first get a sense of the overall restaurant landscape. In this section, we give an overview of where the most restaurants are located, which types of cuisine you’re most likely to encounter, and what common health violations inspectors tend to find. We also look at how health grades vary across boroughs—valuable insight for anyone deciding where to dine. All these insights are collected in an overview in figure 2. So whether you’re staying in Manhattan or venturing into Queens or the Bronx, this background can help you make smarter, safer choices. 
+For visitors trying to make the most of New York City’s food scene, it helps to first get a sense of the overall restaurant landscape. In this section, we give an overview of where the most restaurants are located, which types of cuisine you’re most likely to encounter, and what common health violations inspectors tend to find. We also look at how health grades vary across boroughs—valuable insight for anyone deciding where to dine. All these insights are collected in an overview in Figure 2. So whether you’re staying in Manhattan or venturing into Queens or the Bronx, this background can help you make smarter, safer choices. 
 
 
 <figure style="text-align: center;">
@@ -215,7 +215,7 @@ Taking a look at Staten Island we see that the grade ‘A’ plot has a high num
 These visual patterns indicate that although violations are generally stable across time and space, tourists may want to pay extra attention during peak travel months (summer and holidays) and consider checking inspection histories.
 
 
-
+<br> <br>
 
 <h2> So where should I eat?</h2>
 If you're a tourist reading this article and wondering where to eat in New York City, Figure 4 can serve as a valuable guide to help you make an informed decision. The map provides a visual overview of restaurant scores across the whole city, allowing you to quickly identify high-scoring options based on your current location. Each dot on the map represents a single restaurant, with its average 2-year score reflected through a color gradient—darker shades of green indicate lower violation scores corresponding to ‘A’ grades, while more reddish tones suggest higher scores associated with ‘C’ grades.
@@ -233,15 +233,16 @@ This intuitive visual format makes it easy to scan your surroundings and spot we
 
 <br><br>
 So whether you're wandering through Manhattan, checking out Brooklyn's vibrant neighborhoods, or exploring the Bronx, Queens, or Staten Island, Figure 4 offers a practical tool and is a handy companion for navigating the city's food scene. Craving a classic American bite, a cozy café, or something more adventurous like Jamaican or Armenian dishes? This map helps make sure every meal in New York City is a delicious discovery.
-<br><br>
+<br><br><br><br>
 
 
 <b>References</b>: <br>
 [1]: Context, Context Travel. n.d. "36 Hours in NYC." Accessed May 10, 2025. https://www.contexttravel.com/stories/articles/36-hours-in-nyc.<br>
 [2]: OysterLink. n.d. How Many Restaurants Does NYC Have? Accessed May 10, 2025. https://oysterlink.com/spotlight/how-many-restaurants-does-nyc-have/ <br>
-[3]: NYC Department of Health and Mental Hygiene. n.d. "ABCEats-Restaurants: Frequently Asked Questions." Accessed May 10, 2025. https://a816-health.nyc.gov/ABCEatsRestaurants/#!/faq.
-
-
+[3]: NYC Department of Health and Mental Hygiene. n.d. "ABCEats-Restaurants: Frequently Asked Questions." Accessed May 10, 2025. https://a816-health.nyc.gov/ABCEatsRestaurants/#!/faq. <br>
+[4]: NYC Open Data. n.d. "DOHMH New York City Restaurant Inspection Results." Accessed May 10, 2025. https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j/about_data.
+<br>
+[5]: Rayhan32. n.d. "Trip Advisor New York City Restaurants Dataset 10k+." Kaggle. Accessed May 10, 2025. https://www.kaggle.com/datasets/rayhan32/trip-advisor-newyork-city-restaurants-dataset-10k.
 
 
 </div>
