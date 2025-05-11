@@ -159,8 +159,6 @@ There is little to no correlation between public ratings and official health gra
 </figure>
 
 
-
-
 The contrast between health grades and reviews highlights the limitations of relying solely on either system. For tourists especially, understanding that a high customer rating doesn’t necessarily indicate cleanliness—and that a low health grade doesn’t always mean a bad meal—can help make more informed dining choices.
 <br> <br>
 <h2> Restaurant information overview </h2>
@@ -236,7 +234,7 @@ The health department inspects many different aspects, the most prevailing viola
 
 
 <br><br>
-<figure style="text-align: center; width: 100vw; margin-left: calc(-42vw + 50%);">
+<figure style="text-align: center; width: 100vw; margin-left: calc(-45vw + 50%);">
 <iframe src="/assets/plots/barplots_grade_rating_distribution.html"
         style="width: 100%; max-width: 100%; height: 500px; border: none;">
 </iframe>
@@ -245,7 +243,6 @@ The health department inspects many different aspects, the most prevailing viola
 </figcaption>
 </figure>
 <br><br>
-
 
 
 In Figure 3, “Health Grade and Rating Distribution by Borough,” clear patterns emerge that can help tourists dine with greater confidence.
@@ -268,14 +265,40 @@ For travelers prioritizing both hygiene and overall experience, Manhattan and Br
 
 
 
+<br> <br>
+<h2>  What should you eat in New York?</h2>
+<h2>  What to eat (and what to double-check)</h2>
+Not only is the number of restaurants in NYC extensive, so is the variety of cuisine categories offered in New York City. With so many options, choosing where to eat can be daunting. To help guide diners toward both satisfying and safe choices, Figures 4.1 and 4.2 visualize how customer satisfaction and sanitation align—or don’t—for different cuisine types. 
+<br> <br>
+Figure 4.1 displays the top 10 cuisines by percentage of A health grades, highlighting which types most frequently meet the city's highest cleanliness standard. Soups/Salads/Sandwiches leads with the highest share of 'A' grades and also holds a strong average rating, making it a solid pick for cautious diners. Salads, Donuts, and Tex-Mex also combine above-average ratings with strong cleanliness records, suggesting reliability in both experience and safety. On the other hand, Hamburgers and Soul Food appear with lower customer ratings and slightly weaker A-grade percentages, despite being relatively common and popular.
+<br> <br>
+Figure 4.2, on the other hand, shows the top 10 cuisines by percentage of C grades—the most severe sanitation violations. Here, German, Portuguese, and Jewish/Kosher cuisines stand out with the highest rates of C-grade violations, raising red flags for health-conscious tourists. Yet despite these cleanliness concerns, some—like German and Portuguese—still maintain relatively strong customer reviews. Asian/Asian Fusion, Turkish, and Thai cuisine also perform well in ratings but appear on this list due to a higher frequency of critical violations, revealing a disconnect between diner perception and health inspection outcomes.
+<figure style="text-align: center; width: 100vw; margin-left: calc(-30w + 50%);">
+<iframe src="/assets/plots/top_cuisines_A.html"
+        style="width: 100%; max-width: 100%; height: 900px; border: none;" scrolling="no">
+</iframe>
+<figcaption style="font-style: italic; text-align: left; margin-top: 10px; color: #555;">
+  Figure 4.1: Caption.
+</figcaption>
+</figure>
 
+<figure style="text-align: center; width: 100vw; margin-left: calc(-30w + 50%);">
+<iframe src="/assets/plots/top_cuisines_C.html"
+        style="width: 100%; max-width: 100%; height: 900px; border: none;" scrolling="no">
+</iframe>
+<figcaption style="font-style: italic; text-align: left; margin-top: 10px; color: #555;">
+  Figure 4.2: Caption.
+</figcaption>
+</figure>
 
 
 
 <br> <br>
-<h2>  What should you eat in New York?</h2>
-<h2>  What to eat (and what to double-check)</h2>
-Not only is the amount of restaurants extensive, so is the variety of cuisines categories offered in New York City. To make the choice a little easier or to at least help discern when to be on alert for the Health inspection Grade we present Figure 4.1 and 4.2. Information can be gained dragging the cursor over the bubbles such as The cuisine type, percentage of either grade ‘A’ or ‘C’ for the cuisine type, the average rating and the amount of inspections. 
+These figures illustrate that high customer satisfaction and good hygiene don’t always go hand in hand. Some of the best-reviewed cuisines—such as Thai and Asian Fusion—may still have sanitation risks. Conversely, less popular or lower-rated categories like Salads and Soups/Sandwiches might offer safer choices when judged by health inspections alone. So while flavor and ambiance matter, checking the health grade could be the difference between a great night out and an unfortunate one.
+
+
+
+
 
 
 
