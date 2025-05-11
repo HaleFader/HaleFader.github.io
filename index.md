@@ -3,19 +3,10 @@ layout: page
 classes: wide
 ---
 
-
-
-
 <div style="position: relative; width: 100vw; margin-left: calc(-50vw + 50%); overflow: hidden;">
-
-
-
 
 <!-- Image -->
 <img src="/assets/images/NewYorkStreets.jpg" style="width: 100%; height: auto; display: block;" alt="NYC street">
-
-
-
 
 <!-- Dark overlay -->
 <div style="
@@ -26,10 +17,6 @@ classes: wide
   height: 100%;
   background-color: rgba(0, 0, 0, 0.45); /* Adjust darkness here */
 "></div>
-
-
-
-
 <!-- Title text -->
 <h1 style="
   position: absolute;
@@ -48,10 +35,6 @@ classes: wide
 ">
   Navigation of the New York City jungle of restaurants
 </h1>
-
-
-
-
 <!-- Caption -->
 <figcaption style="
   position: absolute;
@@ -64,15 +47,7 @@ classes: wide
 ">
   Photo by CONTEXT[1]
 </figcaption>
-
-
-
-
 </div>
-
-
-
-
 <div>
 <br>
 New York City has more restaurants than days in a decade—and choosing where to eat can feel just as overwhelming. From high-end dining experiences in Manhattan to vibrant street food scenes in Queens, the city offers options to suit every palate and budget. NYC is globally celebrated for its extraordinary culinary diversity, but for tourists unfamiliar with the city's health inspection system, deciding where to eat isn’t just about flavor—it’s also about safety. With up to 28,000 establishments [2], the sheer volume of choices adds to the challenge. And amid all the buzz, one question often gets overlooked: how clean is your next meal, really?
@@ -275,7 +250,7 @@ Figure 4.1 displays the top 10 cuisines by percentage of A health grades, highli
 Figure 4.2, on the other hand, shows the top 10 cuisines by percentage of C grades—the most severe sanitation violations. Here, German, Portuguese, and Jewish/Kosher cuisines stand out with the highest rates of C-grade violations, raising red flags for health-conscious tourists. Yet despite these cleanliness concerns, some—like German and Portuguese—still maintain relatively strong customer reviews. Asian/Asian Fusion, Turkish, and Thai cuisine also perform well in ratings but appear on this list due to a higher frequency of critical violations, revealing a disconnect between diner perception and health inspection outcomes.
 <figure style="text-align: center; width: 100vw; margin-left: calc(-30w + 50%);">
 <iframe src="/assets/plots/top_cuisines_A.html"
-        style="width: 100%; max-width: 100%; height: 900px; border: none;" scrolling="no">
+        style="width: 100%; max-width: 100%; height: 300px; border: none;" scrolling="no">
 </iframe>
 <figcaption style="font-style: italic; text-align: left; margin-top: 10px; color: #555;">
   Figure 4.1: Caption.
@@ -284,7 +259,7 @@ Figure 4.2, on the other hand, shows the top 10 cuisines by percentage of C grad
 
 <figure style="text-align: center; width: 100vw; margin-left: calc(-30w + 50%);">
 <iframe src="/assets/plots/top_cuisines_C.html"
-        style="width: 100%; max-width: 100%; height: 900px; border: none;" scrolling="no">
+        style="width: 100%; max-width: 100%; height: 300px; border: none;" scrolling="no">
 </iframe>
 <figcaption style="font-style: italic; text-align: left; margin-top: 10px; color: #555;">
   Figure 4.2: Caption.
