@@ -249,7 +249,6 @@ Figure 4.1 displays the top 10 cuisines by percentage of A health grades, highli
 <br> <br>
 Figure 4.2, on the other hand, shows the top 10 cuisines by percentage of C grades—the most severe sanitation violations. Here, German, Portuguese, and Jewish/Kosher cuisines stand out with the highest rates of C-grade violations, raising red flags for health-conscious tourists. Yet despite these cleanliness concerns, some—like German and Portuguese—still maintain relatively strong customer reviews. Asian/Asian Fusion, Turkish, and Thai cuisine also perform well in ratings but appear on this list due to a higher frequency of critical violations, revealing a disconnect between diner perception and health inspection outcomes.
 <figure style="
-    /* make this one full-viewport width & center it */
     position: relative;
     width: 100vw;
     max-width: none;
@@ -257,6 +256,7 @@ Figure 4.2, on the other hand, shows the top 10 cuisines by percentage of C grad
     margin-left: -50vw;
     overflow: visible;
     text-align: center;
+    transform: translateX(40px);
 ">
   <iframe
     src="/assets/plots/top_cuisines_A.html"
@@ -277,7 +277,6 @@ Figure 4.2, on the other hand, shows the top 10 cuisines by percentage of C grad
 </figure>
 
 <figure style="
-    /* make this one full-viewport width & center it */
     position: relative;
     width: 100vw;
     max-width: none;
@@ -285,6 +284,7 @@ Figure 4.2, on the other hand, shows the top 10 cuisines by percentage of C grad
     margin-left: -50vw;
     overflow: visible;
     text-align: center;
+    transform: translateX(40px);
 ">
   <iframe
     src="/assets/plots/top_cuisines_C.html"
