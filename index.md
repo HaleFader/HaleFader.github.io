@@ -83,7 +83,7 @@ New York City has more restaurants than days in a decade—and choosing where to
   <thead>
     <tr>
       <th style="border: 1px solid #999; padding: 8px; background-color: #f3f3f3;">Borough</th>
-      <th style="border: 1px solid #999; padding: 8px; background-color: #f3f3f3;">Mean rating</th>
+      <th style="border: 1px solid #999; padding: 8px; background-color: #f3f3f3;">Average rating</th>
     </tr>
   </thead>
   <tbody>
