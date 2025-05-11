@@ -248,20 +248,23 @@ Not only is the number of restaurants in NYC extensive, so is the variety of cui
 Figure 4.1 displays the top 10 cuisines by percentage of A health grades, highlighting which types most frequently meet the city's highest cleanliness standard. Soups/Salads/Sandwiches leads with the highest share of 'A' grades and also holds a strong average rating, making it a solid pick for cautious diners. Salads, Donuts, and Tex-Mex also combine above-average ratings with strong cleanliness records, suggesting reliability in both experience and safety. On the other hand, Hamburgers and Soul Food appear with lower customer ratings and slightly weaker A-grade percentages, despite being relatively common and popular.
 <br> <br>
 Figure 4.2, on the other hand, shows the top 10 cuisines by percentage of C grades—the most severe sanitation violations. Here, German, Portuguese, and Jewish/Kosher cuisines stand out with the highest rates of C-grade violations, raising red flags for health-conscious tourists. Yet despite these cleanliness concerns, some—like German and Portuguese—still maintain relatively strong customer reviews. Asian/Asian Fusion, Turkish, and Thai cuisine also perform well in ratings but appear on this list due to a higher frequency of critical violations, revealing a disconnect between diner perception and health inspection outcomes.
-<figure style="text-align: center; width: 60%; margin: 0 auto;">
-  <iframe src="/assets/plots/top_cuisines_A.html"
-          style="width: 100%; height: 520px; border: none;" scrolling="no">
-  </iframe>
+<figure style="text-align: center; width: 100%; overflow: hidden;">
+  <div style="transform: scale(0.6); transform-origin: top center; width: fit-content; margin: 0 auto;">
+    <iframe src="/assets/plots/top_cuisines_A.html"
+            style="width: 1600px; height: 520px; border: none;" scrolling="no">
+    </iframe>
+  </div>
   <figcaption style="font-style: italic; text-align: center; margin: 10px auto 0; color: #555;">
     Figure 4.1: Caption.
   </figcaption>
 </figure>
 
-
-<figure style="text-align: center; width: 60%; margin: 0 auto;">
-  <iframe src="/assets/plots/top_cuisines_C.html"
-          style="width: 100%; height: 520px; border: none;" scrolling="no">
-  </iframe>
+<figure style="text-align: center; width: 100%; overflow: hidden;">
+  <div style="transform: scale(0.6); transform-origin: top center; width: fit-content; margin: 0 auto;">
+    <iframe src="/assets/plots/top_cuisines_C.html"
+            style="width: 1600px; height: 520px; border: none;" scrolling="no">
+    </iframe>
+  </div>
   <figcaption style="font-style: italic; text-align: center; margin: 10px auto 0; color: #555;">
     Figure 4.2: Caption.
   </figcaption>
