@@ -258,20 +258,15 @@ Figure 4.2, on the other hand, shows the top 10 cuisines by percentage of C grad
     style="width:100%; height:520px; border:none;"
     scrolling="no">
   </iframe>
-  <figcaption style="
-      font-style: italic;
-      color: #555;
-      /* match your column width */
-      width: 40vw;
-      /* shift it back under the column */
-      margin-left: calc(-30vw + 50%);
-      /* give a bit of top margin */
-      margin-top: 10px;
-      /* center the text inside that 40vw box */
-      text-align: center;
-  ">
-    Figure 4.1: Caption.
-  </figcaption>
+<figcaption style="
+    font-style: italic;
+    color: #555;
+    margin: 10px auto 0;
+    display: inline-block;         /* shrink‐wrap to its text */
+    transform: translateX(-50px);  /* shift left by 50px */
+">
+  Figure 4.1: Caption.
+</figcaption>
 </figure>
 
 <figure style="
@@ -284,20 +279,15 @@ Figure 4.2, on the other hand, shows the top 10 cuisines by percentage of C grad
     style="width:100%; height:520px; border:none;"
     scrolling="no">
   </iframe>
-  <figcaption style="
-      font-style: italic;
-      color: #555;
-      /* match your column width */
-      width: 40vw;
-      /* shift it back under the column */
-      margin-left: calc(-30vw + 50%);
-      /* give a bit of top margin */
-      margin-top: 10px;
-      /* center the text inside that 40vw box */
-      text-align: center;
-  ">
-    Figure 4.2: Caption.
-  </figcaption>
+<figcaption style="
+    font-style: italic;
+    color: #555;
+    margin: 10px auto 0;
+    display: inline-block;         /* shrink‐wrap to its text */
+    transform: translateX(-50px);  /* shift left by 50px */
+">
+  Figure 4.2: Caption.
+</figcaption>
 </figure>
 
 
