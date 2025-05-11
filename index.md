@@ -261,10 +261,13 @@ Figure 4.2, on the other hand, shows the top 10 cuisines by percentage of C grad
   <figcaption style="
       font-style: italic;
       color: #555;
-      /* make this exactly as wide as your column */
-      width: calc(100vw - 2 * 30vw);
-      /* then center it inside the full-width figure */
-      margin: 10px auto 0;
+      /* match your column width */
+      width: 40vw;
+      /* shift it back under the column */
+      margin-left: calc(-30vw + 50%);
+      /* give a bit of top margin */
+      margin-top: 10px;
+      /* center the text inside that 40vw box */
       text-align: center;
   ">
     Figure 4.1: Caption.
@@ -284,10 +287,13 @@ Figure 4.2, on the other hand, shows the top 10 cuisines by percentage of C grad
   <figcaption style="
       font-style: italic;
       color: #555;
-      /* make this exactly as wide as your column */
-      width: calc(100vw - 2 * 30vw);
-      /* then center it inside the full-width figure */
-      margin: 10px auto 0;
+      /* match your column width */
+      width: 40vw;
+      /* shift it back under the column */
+      margin-left: calc(-30vw + 50%);
+      /* give a bit of top margin */
+      margin-top: 10px;
+      /* center the text inside that 40vw box */
       text-align: center;
   ">
     Figure 4.2: Caption.
