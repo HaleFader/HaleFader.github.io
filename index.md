@@ -236,7 +236,7 @@ The health department inspects many different aspects, the most prevailing viola
 
 
 <br><br>
-<figure style="text-align: center; width: 100vw; margin-left: calc(-48vw + 50%);">
+<figure style="text-align: center; width: 100vw; margin-left: calc(-42vw + 50%);">
 <iframe src="/assets/plots/barplots_grade_rating_distribution.html"
         style="width: 100%; max-width: 100%; height: 500px; border: none;">
 </iframe>
