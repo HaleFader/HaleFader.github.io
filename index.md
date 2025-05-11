@@ -258,15 +258,17 @@ Figure 4.2, on the other hand, shows the top 10 cuisines by percentage of C grad
     style="width:100%; height:520px; border:none;"
     scrolling="no">
   </iframe>
-<figcaption style="
-    font-style: italic;
-    color: #555;
-    margin: 10px auto 0;
-    position: relative;    /* allow offset */
-    left: -40px;           /* nudge it 40px to the left */
-">
-  Figure 4.1: Caption.
-</figcaption>
+  <figcaption style="
+      font-style: italic;
+      color: #555;
+      /* make this exactly as wide as your column */
+      width: calc(100vw - 2 * 30vw);
+      /* then center it inside the full-width figure */
+      margin: 10px auto 0;
+      text-align: center;
+  ">
+    Figure 4.1: Caption.
+  </figcaption>
 </figure>
 
 <figure style="
@@ -279,15 +281,17 @@ Figure 4.2, on the other hand, shows the top 10 cuisines by percentage of C grad
     style="width:100%; height:520px; border:none;"
     scrolling="no">
   </iframe>
-<figcaption style="
-    font-style: italic;
-    color: #555;
-    margin: 10px auto 0;
-    position: relative;    /* allow offset */
-    left: -40px;           /* nudge it 40px to the left */
-">
-  Figure 4.2: Caption.
-</figcaption>
+  <figcaption style="
+      font-style: italic;
+      color: #555;
+      /* make this exactly as wide as your column */
+      width: calc(100vw - 2 * 30vw);
+      /* then center it inside the full-width figure */
+      margin: 10px auto 0;
+      text-align: center;
+  ">
+    Figure 4.2: Caption.
+  </figcaption>
 </figure>
 
 
