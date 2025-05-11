@@ -253,25 +253,17 @@ Figure 4.2, on the other hand, shows the top 10 cuisines by percentage of C grad
     width: 100vw;
     max-width: none;
     left: 50%;
-    margin-left: -50vw;
+    transform: translateX(-50%);
     overflow: visible;
     text-align: center;
-    transform: translateX(40px);
+    margin: 0;  /* reset any default margins */
 ">
   <iframe
     src="/assets/plots/top_cuisines_A.html"
-    style="
-      width: 100%;
-      height: 520px;
-      border: none;
-    "
+    style="width:100%; height:520px; border:none;"
     scrolling="no">
   </iframe>
-  <figcaption style="
-      font-style: italic;
-      color: #555;
-      margin: 10px auto 0;
-  ">
+  <figcaption style="font-style:italic; color:#555; margin:10px auto 0;">
     Figure 4.1: Caption.
   </figcaption>
 </figure>
@@ -281,25 +273,17 @@ Figure 4.2, on the other hand, shows the top 10 cuisines by percentage of C grad
     width: 100vw;
     max-width: none;
     left: 50%;
-    margin-left: -50vw;
+    transform: translateX(-50%);
     overflow: visible;
     text-align: center;
-    transform: translateX(40px);
+    margin: 0;  /* reset any default margins */
 ">
   <iframe
     src="/assets/plots/top_cuisines_C.html"
-    style="
-      width: 100%;
-      height: 520px;
-      border: none;
-    "
+    style="width:100%; height:520px; border:none;"
     scrolling="no">
   </iframe>
-  <figcaption style="
-      font-style: italic;
-      color: #555;
-      margin: 10px auto 0;
-  ">
+  <figcaption style="font-style:italic; color:#555; margin:10px auto 0;">
     Figure 4.2: Caption.
   </figcaption>
 </figure>
