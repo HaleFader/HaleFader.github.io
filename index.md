@@ -236,15 +236,16 @@ The health department inspects many different aspects, the most prevailing viola
 
 
 <br><br>
-<figure style="text-align: center;">
+<figure style="text-align: center; width: 100vw; margin-left: calc(-45vw + 50%);">
 <iframe src="/assets/plots/barplots_grade_rating_distribution.html"
         style="width: 100%; max-width: 100%; height: 500px; border: none;">
 </iframe>
-<figcaption style="font-style: italic; text-align: center; margin-top: 10px; color: #555;">
+<figcaption style="font-style: italic; text-align: center; margin: 10px auto 0; color: #555; max-width: 90%; transform: translateX(-5%);">
   Figure 3: Two bar plots, one showing the health grade distribution and the other showing the rating distribution across the boroughs.
 </figcaption>
 </figure>
 <br><br>
+
 
 
 In Figure 3, “Health Grade and Rating Distribution by Borough,” clear patterns emerge that can help tourists dine with greater confidence.
