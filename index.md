@@ -196,9 +196,9 @@ When viewing places to eat as a tourist visiting New York City, it can be valuab
  <iframe src="/assets/plots/polarplots.html"
          style="width: 100%; height: 520px; border: none;">
  </iframe>
- <figcaption style="font-style: italic; text-align: center; margin-top: 10px; color: #555;">
-   Figure 3: Polar plot of the health grade distributions A, B and C distributed over the different boroughs.
- </figcaption>
+<figcaption style="font-style: italic; text-align: center; margin: 10px auto 0; color: #555; max-width: 90%; transform: translateX(-5%);">
+  Figure 3: Polar plot of the health grade distributions A, B and C distributed over the different boroughs.
+</figcaption>
 </figure>
 
 
