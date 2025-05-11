@@ -258,9 +258,15 @@ Figure 4.2, on the other hand, shows the top 10 cuisines by percentage of C grad
     style="width:100%; height:520px; border:none;"
     scrolling="no">
   </iframe>
-  <figcaption style="font-style:italic; color:#555; margin:10px auto 0;">
-    Figure 4.1: Caption.
-  </figcaption>
+<figcaption style="
+    font-style: italic;
+    color: #555;
+    margin: 10px auto 0;
+    display: inline-block;           /* shrink‐wrap caption text */
+    transform: translateX(-20px);    /* nudge it 20px to the left */
+">
+  Figure 4.2: Caption.
+</figcaption>
 </figure>
 
 <figure style="
@@ -273,9 +279,15 @@ Figure 4.2, on the other hand, shows the top 10 cuisines by percentage of C grad
     style="width:100%; height:520px; border:none;"
     scrolling="no">
   </iframe>
-  <figcaption style="font-style:italic; color:#555; margin:10px auto 0;">
-    Figure 4.2: Caption.
-  </figcaption>
+<figcaption style="
+    font-style: italic;
+    color: #555;
+    margin: 10px auto 0;
+    display: inline-block;           /* shrink‐wrap caption text */
+    transform: translateX(-20px);    /* nudge it 20px to the left */
+">
+  Figure 4.2: Caption.
+</figcaption>
 </figure>
 
 
