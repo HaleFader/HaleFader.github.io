@@ -95,11 +95,11 @@ New York City has more restaurants than days in a decade—and choosing where to
 </div>
 
 
-<br>
+<br> <br>
 This article aims to serve as a guide for readers on where to eat, and one important aspect that is often overlooked in such guides is the sanitary condition of the restaurant. Here, we seek to combine knowledge of the Health Department’s grading system of the sanitation of NYC restaurants with the more widely used customer review ratings in order to provide a more nuanced basis for making dining decisions.
 
 
-To navigate the sea of options, tourists often turn to online reviews to guide their decisions, relying on platforms like Yelp, TripAdvisor or Google Maps. Drawing from review ratings from TripAdvisor, restaurants across all five boroughs generally receive favorable ratings, all averaging around 4 out of 5 as seen in Table 1. You would therefore think that a restaurant's state of sanitation would be somehow reflected in this rating, right?
+To navigate the sea of options, tourists often turn to online reviews to guide their decisions, relying on platforms like Yelp, TripAdvisor or Google Maps. Drawing from review ratings from TripAdvisor, restaurants across all five boroughs generally receive favorable ratings, all averaging around 4 out of 5 as seen in Table 1. You would therefore assume that a restaurant's state of sanitation would be somehow reflected in this rating, right?
 <br><br>
 No.  In fact customer ratings  correlate very poorly with the sanitary state of the individual restaurants.
 <br>
@@ -220,7 +220,7 @@ For travelers prioritizing both hygiene and overall experience, Manhattan and Br
 <br> <br>
 <!-- <h2>  What should you eat in New York?</h2>-->
 <h2>  What to eat (and what to double-check)</h2>
-Not only is the number of restaurants in NYC extensive, so is the variety of cuisine categories offered in New York City. With so many options, choosing where to eat can be daunting. To help guide diners toward both satisfying and safe choices, Figures 4.1 and 4.2 visualize how customer satisfaction and sanitation align—or don’t—for different cuisine types.
+Not only is the number of restaurants in NYC extensive, so is the variety of cuisine categories offered. With so many options, choosing where to eat can be daunting. To help guide diners toward both satisfying and safe choices, Figures 4.1 and 4.2 visualize how customer satisfaction and sanitation align—or don’t—for different cuisine types.
 <br> <br>
 Figure 4.1 displays the top 10 cuisines by percentage of A health grades, highlighting which types most frequently meet the city's highest cleanliness standard. Soups/Salads/Sandwiches leads with the highest share of 'A' grades and also holds a strong average rating, making it a solid pick for cautious diners. Salads, Donuts, and Tex-Mex also combine above-average ratings with strong cleanliness records, suggesting reliability in both experience and safety. On the other hand, Hamburgers and Soul Food appear with lower customer ratings and slightly weaker A-grade percentages, despite being relatively common and popular.
 <br> <br>
