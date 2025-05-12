@@ -146,7 +146,7 @@ For visitors trying to make the most of New York City’s food scene, it helps t
        style="width: 100%; max-width: 100%; height: 500px; border: none;">
 </iframe>
 <figcaption style="font-style: italic; text-align: center; margin-top: 10px; color: #555;">
- Figure 2: Three different bar plots showing the restaurant counts, most occurring cuisines across New York City and most occurring violation codes.
+ Figure 2: Three different bar plots showing the restaurant counts, most occurring cuisines across New York City and most occurring violation codes. <br> By clicking on the grey button you can switch between the three plots and dragging your cursor over the bar tells you the exact number of restaurants/violations.
 </figcaption>
 </figure>
 
@@ -200,7 +200,7 @@ The health department inspects many different aspects, the most prevailing viola
        style="width: 100%; max-width: 100%; height: 500px; border: none;">
 </iframe>
 <figcaption style="font-style: italic; text-align: center; margin: 10px auto 0; color: #555; max-width: 90%; transform: translateX(-5%);">
- Figure 3: Two bar plots, one showing the health grade distribution and the other showing the rating distribution across the boroughs.
+ Figure 3: Two bar plots, one showing the health grade distribution and the other showing the rating distribution across the boroughs. <br> By dragging your cursor over the bars you can see the exact percentages.
 </figcaption>
 </figure>
 <br><br>
@@ -236,8 +236,9 @@ Figure 4.2, on the other hand, shows the top 10 cuisines by percentage of C grad
    scrolling="no">
  </iframe>
 <figcaption style="font-style: italic;  margin-top: 10px; color: #555 ;position: relative;left: -350px; ">
- Figure 4.1: Scatter plot displaying the 10 cuisines with highest percentage of 'A' grades compared to their average ratings. <br>
- The size of the dots depend on the amount of number of total inspections of the cuisine type.
+Figure 4.1: Scatter plot displaying the 10 cuisines with highest percentage of 'A' grades compared to their average ratings. <br>
+The size of the dots depend on number of total inspections of the cuisine type. <br>Dragging your cursor over the dots, information about cuisine type, percentage of ‘A’ grades, average customer rating <br>and the exact amount of inspections are displayed.
+
 </figcaption>
 </figure>
 
@@ -253,8 +254,9 @@ Figure 4.2, on the other hand, shows the top 10 cuisines by percentage of C grad
    scrolling="no">
  </iframe>
 <figcaption style="font-style: italic;  margin-top: 10px; color: #555 ;position: relative;left: -350px; ">
- Figure 4.2: Scatter plot displaying the 10 cuisines with highest percentage of 'C' grades compared to their average ratings. <br>
- The size of the dots depend on the amount of number of total inspections of the cuisine type.
+Figure 4.2: Scatter plot displaying the 10 cuisines with highest percentage of 'C' grades compared to their average ratings. <br>
+The size of the dots depend on the number of total inspections of the cuisine type. <br>Dragging your cursor over the dots, information about cuisine type, percentage of ‘C’ grades, average customer rating <br>and the exact amount of inspections are displayed.
+
 </figcaption>
 </figure>
 
@@ -273,7 +275,7 @@ When viewing places to eat as a tourist visiting New York City, it can be valuab
        style="width: 100%; height: 520px; border: none;">
 </iframe>
 <figcaption style="font-style: italic; text-align: center; margin: 10px auto 0; color: #555; max-width: 90%; transform: translateX(-5%);">
-Figure 5: Polar plot of the health grade distributions A, B and C distributed over the different boroughs.
+Figure 5: Polar plot of the health grade distributions A, B and C distributed over the different boroughs. <br>The list on the right allows you to control the visibility of each borough by clicking them on or off. <br>Draggin the cursor over the pies the specific percentage can be seen for each month. 
 </figcaption>
 </figure>
 
