@@ -109,7 +109,7 @@ And amid all the buzz, one question often gets overlooked: how clean is your nex
 
 
 
-<h2>Health grades vs. user review ratings</h2>
+<!-- <h2>Health grades vs. user review ratings</h2>  -->
 <h2>Do good reviews mean clean kitchens?</h2>
 
 
@@ -132,7 +132,7 @@ There is little to no correlation between public ratings and official health gra
 
 The contrast between health grades and reviews highlights the limitations of relying solely on either system. For tourists especially, understanding that a high customer rating doesn’t necessarily indicate cleanliness—and that a low health grade doesn’t always mean a bad meal—can help make more informed dining choices.
 <br> <br>
-<h2> Restaurant information overview </h2>
+<!-- <h2> Restaurant information overview </h2>-->
 <h2> Understanding the city’s food landscape</h2>
 
 
@@ -218,7 +218,7 @@ Turning to the rating distribution portion of Figure 3, which reflects customer 
 For travelers prioritizing both hygiene and overall experience, Manhattan and Brooklyn offer a strong balance of safety and satisfaction. That said, diners seeking local favorites or hidden gems may still find worthwhile spots in the outer boroughs—especially with a bit of planning and attention to both grade and rating details.
 
 <br> <br>
-<h2>  What should you eat in New York?</h2>
+<!-- <h2>  What should you eat in New York?</h2>-->
 <h2>  What to eat (and what to double-check)</h2>
 Not only is the number of restaurants in NYC extensive, so is the variety of cuisine categories offered in New York City. With so many options, choosing where to eat can be daunting. To help guide diners toward both satisfying and safe choices, Figures 4.1 and 4.2 visualize how customer satisfaction and sanitation align—or don’t—for different cuisine types.
 <br> <br>
@@ -239,9 +239,9 @@ Figure 4.2, on the other hand, shows the top 10 cuisines by percentage of C grad
    font-style: italic;
    color: #555;
    display: inline-block;     /* shrink‐wrap to text width */
-   margin: 10px auto 0;
+   margin: 50px auto 0;
    margin-left: -40px;        /* ← moves it 40px left */
-   text-align: center;
+   text-align: left;
 ">
  Figure 4.1: Caption.
 </figcaption>
@@ -277,7 +277,7 @@ These figures illustrate that high customer satisfaction and good hygiene don’
 
 
 <br><br>
-<h2>  When should you visit New York City?</h2>
+<!-- <h2>  When should you visit New York City?</h2> -->
 <h2>  Travel smart: when NYC restaurants are at their best </h2>
 When viewing places to eat as a tourist visiting New York City, it can be valuable to look at the distributions of health grades throughout the months of the year. In the polar plots in Figure 5, the normalized distributions of health grades ‘A’, ‘B’ and ‘C’ are presented for each borough. Whether you want to look into the neighbourhood you’re staying in, or just get an overall feeling of the trends of the year, the clickable boxes on the right allow you to explore.
 <figure style="text-align: center; width: 100vw; margin-left: calc(-45vw + 50%);">
@@ -306,7 +306,7 @@ These visual patterns indicate that although violations are generally stable acr
 
 <br> <br>
 
-<h2> So where should I eat?</h2>
+<!-- <h2> So where should I eat?</h2> -->
 <h2> Browse clean, well-rated restaurants near you.</h2>
 
 If you're a tourist reading this article and wondering where to eat in New York City, Figure 6 can serve as a valuable guide to help you make an informed decision. The map provides a visual overview of restaurant scores across the whole city, allowing you to quickly identify high-scoring options based on your current location. Each dot on the map represents a single restaurant, with its average 2-year score reflected through a color gradient—darker shades of green indicate lower violation scores corresponding to ‘A’ grades, while more reddish tones suggest higher scores associated with ‘C’ grades.It also lets you filter by cuisine, so if you're curious how your favorite food stacks up in terms of sanitation—or want to avoid lower-graded styles—this tool has you covered.
