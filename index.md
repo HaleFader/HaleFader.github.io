@@ -254,8 +254,8 @@ The size of the dots depend on number of total inspections of the cuisine type. 
    scrolling="no">
  </iframe>
 <figcaption style="font-style: italic;  margin-top: 10px; color: #555 ;position: relative;left: -350px; ">
-Figure 4.2: Scatter plot displaying the 10 cuisines with highest percentage of 'C' grades compared to their average ratings. <br>
-The size of the dots depend on the number of total inspections of the cuisine type. Dragging your cursor over the dots, <br>information about cuisine type, percentage of ‘C’ grades, average customer rating and the exact amount of inspections are displayed.
+Figure 4.2: Scatter plot displaying the 10 cuisines with highest percentage of 'C' grades compared to their average ratings. 
+The size of the dots depend on the number of total inspections of the cuisine type. Dragging your cursor over the dots, information about cuisine type, percentage of ‘C’ grades, average customer rating and the exact amount of inspections are displayed.
 
 </figcaption>
 </figure>
