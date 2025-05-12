@@ -328,7 +328,7 @@ In a city where every corner serves something delicious, the key is knowing what
 
 <br><br>
 <b>Explainer notebook</b>: <br>
-<a href="url">link text</a>
+<a href="[url](https://github.com/HaleFader/HaleFader.github.io)">Link to explainer repository with explainer notebook</a>
 
 
 
