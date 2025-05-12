@@ -236,7 +236,7 @@ Figure 4.2, on the other hand, shows the top 10 cuisines by percentage of C grad
    scrolling="no">
  </iframe>
 <figcaption style="font-style: italic;  margin-top: 10px; color: #555 ;position: relative;left: -350px; ">
- Figure 4.1: Scatter plot displaying the 10 cuisines with highest percentage of 'A' grades compared to their average ratings.
+ Figure 4.1: Scatter plot displaying the 10 cuisines with highest percentage of 'A' grades compared to their average ratings. <br>
  The size of the dots depend on the amount of number of total inspections of the cuisine type.
 </figcaption>
 </figure>
@@ -253,7 +253,7 @@ Figure 4.2, on the other hand, shows the top 10 cuisines by percentage of C grad
    scrolling="no">
  </iframe>
 <figcaption style="font-style: italic;  margin-top: 10px; color: #555 ;position: relative;left: -350px; ">
- Figure 4.2: Scatter plot displaying the 10 cuisines with highest percentage of 'C' grades compared to their average ratings.
+ Figure 4.2: Scatter plot displaying the 10 cuisines with highest percentage of 'C' grades compared to their average ratings. <br>
  The size of the dots depend on the amount of number of total inspections of the cuisine type.
 </figcaption>
 </figure>
