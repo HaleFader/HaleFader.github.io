@@ -325,6 +325,13 @@ In a city where every corner serves something delicious, the key is knowing what
 <br>
 [5]: Rayhan32. n.d. "Trip Advisor New York City Restaurants Dataset 10k+." Kaggle. Accessed May 10, 2025. https://www.kaggle.com/datasets/rayhan32/trip-advisor-newyork-city-restaurants-dataset-10k.
 
+
+<br><br>
+<b>Explainer notebook</b>: <br>
+<a href="url">link text</a>
+
+
+
 </div>
 
 
