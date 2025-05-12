@@ -146,7 +146,7 @@ For visitors trying to make the most of New York City’s food scene, it helps t
        style="width: 100%; max-width: 100%; height: 500px; border: none;">
 </iframe>
 <figcaption style="font-style: italic; text-align: center; margin-top: 10px; color: #555;">
- Figure 2: Three different bar plots showing the restaurant counts, most occurring cuisines across New York City and most occurring violation codes. By clicking on the grey button <br> you can switch between the three plots and dragging your cursor over the bar tells you the exact number of restaurants/violations.
+ Figure 2: Three different bar plots showing the restaurant counts, most occurring cuisines across New York City and most occurring violation codes. By clicking on the grey button  you can switch between the three plots and dragging your cursor over the bar tells you the exact number of restaurants/violations.
 </figcaption>
 </figure>
 
